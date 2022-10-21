@@ -1,0 +1,14 @@
+{
+  "name": "discord_hikamani_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
