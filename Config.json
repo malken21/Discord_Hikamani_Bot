@@ -1,0 +1,6 @@
+{
+  "token": "BotのToken",
+  "WebHooks": [
+    "ウェブフックのURL"
+  ]
+}
